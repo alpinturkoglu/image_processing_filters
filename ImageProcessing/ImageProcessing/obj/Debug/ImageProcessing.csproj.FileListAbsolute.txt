@@ -1,0 +1,11 @@
+C:\Users\Alpin\Desktop\LIBSYS2\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+C:\Users\Alpin\Desktop\LIBSYS2\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\Alpin\Desktop\LIBSYS2\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\Alpin\Desktop\LIBSYS2\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+C:\Users\Alpin\Desktop\LIBSYS2\ImageProcessing\ImageProcessing\obj\Debug\Interop.MLApp.dll
+C:\Users\Alpin\Desktop\LIBSYS2\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.ResolveComReference.cache
+C:\Users\Alpin\Desktop\LIBSYS2\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+C:\Users\Alpin\Desktop\LIBSYS2\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\Alpin\Desktop\LIBSYS2\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+C:\Users\Alpin\Desktop\LIBSYS2\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\Alpin\Desktop\LIBSYS2\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
