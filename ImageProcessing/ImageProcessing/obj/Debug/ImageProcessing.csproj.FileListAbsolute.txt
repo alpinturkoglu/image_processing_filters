@@ -9,14 +9,9 @@ C:\Users\Alpin\Desktop\LIBSYS2\ImageProcessing\ImageProcessing\obj\Debug\ImagePr
 C:\Users\Alpin\Desktop\LIBSYS2\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
 C:\Users\Alpin\Desktop\LIBSYS2\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
 C:\Users\Alpin\Desktop\LIBSYS2\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
-F:\Program Files\GitHub\image_processing_filters\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
-F:\Program Files\GitHub\image_processing_filters\ImageProcessing\ImageProcessing\obj\Debug\Interop.MLApp.dll
-F:\Program Files\GitHub\image_processing_filters\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.ResolveComReference.cache
-F:\Program Files\GitHub\image_processing_filters\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
-F:\Program Files\GitHub\image_processing_filters\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
-F:\Program Files\GitHub\image_processing_filters\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
-F:\Program Files\GitHub\image_processing_filters\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
-F:\Program Files\GitHub\image_processing_filters\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
-F:\Program Files\GitHub\image_processing_filters\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
-F:\Program Files\GitHub\image_processing_filters\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
-F:\Program Files\GitHub\image_processing_filters\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+C:\Users\Alpin\Desktop\LIBSYS2\ImageProcessing\ImageProcessing\bin\Debug\AForge.dll
+C:\Users\Alpin\Desktop\LIBSYS2\ImageProcessing\ImageProcessing\bin\Debug\AForge.Imaging.dll
+C:\Users\Alpin\Desktop\LIBSYS2\ImageProcessing\ImageProcessing\bin\Debug\AForge.Math.dll
+C:\Users\Alpin\Desktop\LIBSYS2\ImageProcessing\ImageProcessing\bin\Debug\AForge.xml
+C:\Users\Alpin\Desktop\LIBSYS2\ImageProcessing\ImageProcessing\bin\Debug\AForge.Imaging.xml
+C:\Users\Alpin\Desktop\LIBSYS2\ImageProcessing\ImageProcessing\bin\Debug\AForge.Math.xml

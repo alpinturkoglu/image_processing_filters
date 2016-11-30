@@ -9,23 +9,21 @@ namespace ImageProcessing
 {
     enum Filter
     {
-        [Description("Min Filter")]
-        minFilter=0,
         
-        [Description("Max Filter")]
-        maxFilter=1,
+        [Description("Negative")]
+        negative=0,
 
-        [Description("Median Filter")]
-        medianFilter=2,
+        [Description("Median")]
+        median=1,
 
-        [Description("Average Filter")]
-        averageFilter=3,
+        [Description("Mean")]
+        mean=2,
 
-        [Description("Smoothing Filter")]
-        smoothing=4,
+        [Description("Smoothing")]
+        smoothing=3,
 
-        [Description("Thresholding Filter")]
-        thresholding=5
+        [Description("Blur")]
+        blur=4
 
     }
 }
